@@ -1,0 +1,92 @@
+Version 3
+// entity 0
+{
+"classname" "worldspawn"
+// primitive 0
+{
+ brushDef3
+ {
+  ( 0 0 1 -272 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/c_ceiling_1"
+  ( 0 -1 0 -312 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/c_ceiling_1"
+  ( 1 0 0 -320 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/c_ceiling_1"
+  ( 0 1 0 -320 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/c_ceiling_1"
+  ( -1 0 0 -320 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/c_ceiling_1"
+  ( 0 0 -1 264 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/c_ceiling_1"
+ }
+}
+// primitive 1
+{
+ brushDef3
+ {
+  ( 1 0 0 312 ) ( ( 0.015625 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/wall2_2"
+  ( -1 0 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 -1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 0 1 -264 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+  ( 0 0 -1 8 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+ }
+}
+// primitive 2
+{
+ brushDef3
+ {
+  ( 0 -1 0 312 ) ( ( 0.015625 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/wall2_2"
+  ( -1 0 0 -312 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 1 0 0 -312 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 0 1 -264 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+  ( 0 0 -1 8 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+ }
+}
+// primitive 3
+{
+ brushDef3
+ {
+  ( -1 0 0 312 ) ( ( 0.015625 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/wall2_2"
+  ( 0 1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 1 0 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 -1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 0 1 -264 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+  ( 0 0 -1 8 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+ }
+}
+// primitive 4
+{
+ brushDef3
+ {
+  ( 0 1 0 312 ) ( ( 0.015625 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/wall2_2"
+  ( -1 0 0 -312 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 1 0 0 -312 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 -1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 0 1 -264 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+  ( 0 0 -1 8 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+ }
+}
+// primitive 5
+{
+ brushDef3
+ {
+  ( 0 0 1 -8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_floors/mp_floor_6"
+  ( -1 0 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 1 0 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 -1 0 -320 ) ( ( 0.015625 0 0 ) ( 0 0.015625 0.125 ) ) "textures/common/caulk"
+  ( 0 0 -1 0 ) ( ( 0.015625 0 0 ) ( 0 0.015625 -0.0000000055 ) ) "textures/common/caulk"
+ }
+}
+}
+// entity 1
+{
+"classname" "light"
+"name" "light_1"
+"origin" "0 0 136"
+"light_radius" "312 312 128"
+"_color" "1.000000 1.000000 1.000000"
+"angle" "90"
+}
+// entity 2
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"origin" "-64 -120 64"
+}
